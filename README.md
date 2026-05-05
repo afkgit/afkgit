@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Azure DevOps
-- 🌱 I’m currently learning FE and improve my Python skills expecially Lambda function
+- 🔭 I’m an experienced Linux System Administrator (DevOps Engineer)
+- 🌱 I have participated large project including in-place systems upgrade from RHEL7 to RHEL9 in steps...
 
 <!--
 **afkgit/afkgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
